@@ -1,0 +1,11 @@
+/* CSS Reset */
+  body, header, nav, main, img, h1, h3{
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+/* Style rule for body and image */
+  body{
+    background-color: #FFEE8C;
+  }
